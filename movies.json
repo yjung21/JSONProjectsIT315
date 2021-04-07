@@ -2,7 +2,8 @@
 	"movies": [
 		{
 			"name": "The Avengers",
-			"year": 2012
+			"year": 2012,
+			"image_url": "https://raw.githubusercontent.com/yjung21/JSONProjectsIT315/master/Signal_Knob.jpg"
 		},
 		{
 			"name": "The Avengers: Age of Ultron",
